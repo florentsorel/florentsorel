@@ -19,11 +19,6 @@ Currently at **Mobsuccess**, working on the **RTB (Real-Time Bidding)** platform
 
 ### 🚀 Featured Projects
 
-#### 🎬 [Tracker TV](https://tracker-tv.com)
-A personal movie & TV series tracker with watchlist management, season/episode progress tracking, and automatic TMDB catalog synchronization.
-- **Stack:** Elixir (Phoenix REST API) • Next.js (TypeScript, App Router) • PostgreSQL • Meilisearch
-- 🔗 [Live site](https://tracker-tv.com) • [Project details](https://sorel.dev/en/projects/tracker-tv/)
-
 #### 🔤 [charset.school](https://github.com/florentsorel/charset.school)
 An interactive platform to learn character encoding and decoding by hand (ASCII, ISO-8859-1, UTF-8, UTF-16, UTF-32) through live sandboxes and hands-on exercises.
 - **Stack:** Elixir (Phoenix, LiveView) • SQLite (WAL) • Tailwind CSS
